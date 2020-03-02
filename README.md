@@ -8,3 +8,6 @@ A new Flutter project about apex hero.
 
 ## Contribution
 Free to clone and make change 
+
+## Designer
+<a href="https://github.com/vireakpanha"><img src="https://avatars0.githubusercontent.com/u/48462005?s=400&v=4" alt="vireakpanha logo" width="100" height="100"/></a>
